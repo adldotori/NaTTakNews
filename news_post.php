@@ -23,8 +23,7 @@
       </div>
       <div class="form-group">
         <label for="newsTitle">기사내용</label>
-        <textarea type="text" class="form-control" name="content" rows="50" placeholder="제목을 입력하세요" style="height:500px">
-        </textarea>
+        <textarea type="text" class="form-control" name="content" rows="50" placeholder="내용을 입력하세요" style="height:500px"></textarea>
       </div>
       <button type="submit" class="btn btn-default btn-lg">
         <span class="glyphicon glyphicon-ok" aria-hidden="true"></span> ok
